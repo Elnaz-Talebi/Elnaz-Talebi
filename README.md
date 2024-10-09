@@ -4,13 +4,13 @@
 
 I'm Elnaz, a data analyst passionate about transforming complex datasets into clear, actionable insights. With Python, Power BI, and data visualization expertise, I develop solutions that drive strategic decision-making and business improvement.
 
-- 💻 Currently studying Data Analytics.
+- 💻 Currently improving my knowledge of Data Analytics.
 - 🌟 Always exploring new technologies and learning something new.
 - 📚 Constantly improving my coding skills.
 
 What I'm Up To:
 
-- 🌱 Currently learning Google Analytics.
+- 🌱 Learning Google Analytics.
 - 🔭 Exploring different visualization techniques.
 - 💡 Working on personal projects to enhance my skills.
 
