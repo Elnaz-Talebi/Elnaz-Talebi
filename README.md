@@ -1,15 +1,17 @@
 ## Hi there 👋
 
+## Welcome to my GitHub profile! 🌸
 
+I'm Elnaz, a data analyst passionate about transforming complex datasets into clear, actionable insights. With Python, Power BI, and data visualization expertise, I develop solutions that drive strategic decision-making and business improvement.
 
-Here are some ideas to get you started:
-Welcome to my GitHub profile! 🌸
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently studying Data Analytics.
+🌟 Always exploring new technologies and learning something new.
+📚 Constantly improving my coding skills.
+
+What I'm Up To:
+
+🌱 Currently learning Google Analytics.
+🔭 Exploring different visualization techniques.
+💡 Working on personal projects to enhance my skills.
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to say hello! 😊
